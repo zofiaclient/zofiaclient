@@ -1,11 +1,17 @@
-# Socials
-SpigotMC Profile: https://www.spigotmc.org/members/imaginedev.1069250/  
-Discord Profile: **Imajin#5968**  
-Discord Server: https://discord.gg/ZxCt8JjEtC
+# 🚀 Who am I?
+Hi, I'm ImajinDevon. *(pseudonym)*
 
-# What I Support
-Bring back the YouTube dislike counter, (*extension*): https://returnyoutubedislike.com/  
-Try **Vivaldi**, a fast, feature-rich, and lightweight browser that protects your privacy: https://vivaldi.com/
+# 💻 What do I code in?
+I code in a variety of languages, as shown below:
+- 🦀 [RustLang](https://www.rust-lang.org)
+- 🐍 [Python](https://www.python.org)
+- ☕ [Java](https://openjdk.java.net)
 
-## Notice
-None of the entities listed within this document have provided payment for me to mention them or their cause.
+# 🎢 Favorite projects
+| name | description |
+| :--: | :---------: |
+| [hello-world](https://github.com/ImajinDevon/hello-world) | An extremely over-abstracted and expansion of a simple one line of Rust code. |
+
+# ✨ Supported causes
+[Vivaldi Browser](https://vivaldi.com) - A fast, safe, lightweight browser that respects your privacy.\
+[Return the YouTube dislike counter (chrome extension)](https://returnyoutubedislike.com) - Return the YouTube dislike counter in three clicks.
