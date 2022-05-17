@@ -10,7 +10,6 @@ I code in a variety of languages, as shown below:
 # 🎢 Favorite projects
 | name | description |
 | :--: | :---------: |
-| [hello-world](https://github.com/ImajinDevon/hello-world) | An extremely over-abstracted and expansion of a simple one line of Rust code. |
 
 # ✨ Supported causes
 [Vivaldi Browser](https://vivaldi.com) - A fast, safe, lightweight browser that respects your privacy.\
