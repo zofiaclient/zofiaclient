@@ -10,6 +10,8 @@ I code in a variety of languages, as shown below:
 # 🎢 Favorite projects
 | name | description |
 | :--: | :---------: |
+| [looks](https://github.com/imajindevon/looks/) | A Java library to build frontend design through abstractation and object creation. |
+| [cnsl](https://github.com/imajindevon/cnsl/) | A lightly coded Rust crate designed to support reading from the standard input without any extra hassle. |
 
 # ✨ Supported causes
 [Vivaldi Browser](https://vivaldi.com) - A fast, safe, lightweight browser that respects your privacy.\
