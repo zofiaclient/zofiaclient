@@ -1,6 +1,9 @@
 # 🚀 Who am I?
 Hi, I'm ImajinDevon. *(pseudonym)*
 
+# Metrics
+![Metrics](/github-metrics.svg)
+
 # 💻 What do I code in?
 I code in a variety of languages, as shown below:
 - 🦀 [RustLang](https://www.rust-lang.org)
