@@ -2,6 +2,8 @@
 Hi, I'm ImajinDevon. *(pseudonym)*
 
 # Metrics
+[![Imajin's GitHub stats](https://github-readme-stats.vercel.app/api?theme=merko&username=imajindevon)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Metrics](/github-metrics.svg)
 
 # 💻 What do I code in?
@@ -15,6 +17,7 @@ I code in a variety of languages, as shown below:
 | :--: | :---------: |
 | [looks](https://github.com/imajindevon/looks/) | A Java library to build frontend design through abstractation and object creation. |
 | [cnsl](https://github.com/imajindevon/cnsl/) | A lightly coded Rust crate designed to support reading from the standard input without any extra hassle. |
+| [ivm](https://github.com/imajindevon/ivm/) | An experimental, well-documented and expansion-ready virtual machine written in Rust. |
 
 # ✨ Supported causes
 [Vivaldi Browser](https://vivaldi.com) - A fast, safe, lightweight browser that respects your privacy.\
