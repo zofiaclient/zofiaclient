@@ -1,10 +1,9 @@
 # 🚀 Who am I?
-Hi, I'm ImajinDevon. *(pseudonym)*
+Hi, I'm ImajinDevon.
 
-# Metrics
-[![Imajin's GitHub stats](https://github-readme-stats.vercel.app/api?theme=merko&username=imajindevon)](https://github.com/anuraghazra/github-readme-stats)
-
-![Metrics](/github-metrics.svg)
+# 📰 My Blog
+My blog contains well-researched articles covering hacking, and general software development topics.<br>
+Read my blog [here](https://imajindevon.hashnode.dev/).
 
 # 💻 What do I code in?
 I code in a variety of languages, as shown below:
@@ -22,3 +21,8 @@ I code in a variety of languages, as shown below:
 # ✨ Supported causes
 [Vivaldi Browser](https://vivaldi.com) - A fast, safe, lightweight browser that respects your privacy.\
 [Return the YouTube dislike counter (chrome extension)](https://returnyoutubedislike.com) - Return the YouTube dislike counter in three clicks.
+
+# Metrics
+[![Imajin's GitHub stats](https://github-readme-stats.vercel.app/api?username=imajindevon)](https://github.com/anuraghazra/github-readme-stats)
+
+![Metrics](/github-metrics.svg)
