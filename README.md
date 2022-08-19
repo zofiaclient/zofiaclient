@@ -4,6 +4,10 @@ Hi, I'm ImajinDevon.
 
 ImajinDevon is a pseudonym, derived from my previous name, **imaginedev**.<br>
 
+# 👥 Socials / Contact Me
+
+Please primarily contact me through [Discord](https://discord.com/): `Imajin#5968`
+
 # 📰 My Blog
 
 My blog contains well-researched articles covering hacking and general software development topics.<br>
@@ -18,6 +22,7 @@ I am **fluent** and highly experienced in a variety of languages, such as:
 - ☕ [Java](https://openjdk.java.net)
 
 # 🎢 Pinned Projects
+
 | Project Name | Description |
 | :--: | :---------: |
 | [cnsl](https://github.com/imajindevon/cnsl/) | A lightly coded Rust crate designed to support reading from the standard input without any extra hassle. |
