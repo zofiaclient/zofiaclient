@@ -6,7 +6,7 @@ ImajinDevon is a pseudonym, derived from my previous name, **imaginedev**.<br>
 
 # 👥 Socials / Contact Me
 
-Please primarily contact me through [Discord](https://discord.com/): `Imajin#5968`
+Please primarily contact me through [Discord](https://discord.com/): `@imajindevon`
 
 # 📰 My Blog
 
